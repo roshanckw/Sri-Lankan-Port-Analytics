@@ -1,5 +1,7 @@
 # 🌊 Sri Lankan Maritime Trade & Port Traffic Analytics
 End-to-End Data Analytics Project using Python, SQL Server and Power BI to analyze Sri Lankan Port Trade and Vessel Activity.
+<img width="1308" height="740" alt="Page 1 - Overview" src="https://github.com/user-attachments/assets/8eb06101-e30e-4a5b-8aed-14a452327dab" />
+
 
 ## Project Overview
 
