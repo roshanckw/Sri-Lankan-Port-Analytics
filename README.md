@@ -202,6 +202,7 @@ This dashboard provides a high-level summary of Sri Lanka's maritime trade perfo
 - Monthly Trade Trend
 - Imports vs Exports
 - Top Performing Ports
+![Executive Overview](dashboard_images/Page 1- Overview.png)
 
 ### 🚢 Dashboard 2 — Port Performance
 This dashboard compares the performance of Sri Lanka's major ports.
