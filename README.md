@@ -253,6 +253,29 @@ This dashboard summarizes the most important business findings.
   <img width="1300" height="737" alt="Page 5 - Insights   Rankings" src="https://github.com/user-attachments/assets/f427c138-f641-4674-baa2-7439be1a1de7" />
 
 
+## 📌 Key  Insights
+After analyzing more than 10,900 daily port activity records, several important business insights were identified.
+**1. Colombo is Sri Lanka's dominant maritime hub**
+Colombo handled approximately 85.6% of the country's total port trade volume, making it the clear center of Sri Lanka's maritime trade network and demonstrating a strong hub-and-spoke pattern.
+**2.All major ports are import-oriented**
+Every analyzed port recorded a negative trade balance, meaning imports consistently exceeded exports. This reflects Sri Lanka's broader import-dependent economy during the study period.
+**3.Each port has a unique operational role**
+The analysis shows clear specilization among the ports:
+-**Colombo** = Container hub
+-**Hambantota** = Ro-Ro (vehicle) hub
+-**Trincomalee** = Dry bulk hub
+-**Galle** = General cargo hub
+Rather than competing directly, the ports serve different functions within the national maritime network.
+**4.Vessel traffic strong predicts trade volume**
+Port calls showed a strong positive correlation (0.89) with total trade volume, making vessel traffic one of the best indicators of overall port activity.
+**5. Maritime trade recovered strongly after the economic crisis.**
+Trade volumes declined during 2022 and 2023, corresponding with Sri Lanka's economic crisis. By 2025, total trade reached 37.14 million metric tons, exceeding the 2019 pre-crisis level of 35.95 million metric tons.
+**6. Trincomalee handles larger cargo volumes per vessel.**
+Although Trincomalee recorded far fewer vessel arrivals than Colombo, its average trade per ship reached approximately 6,448 metric tons, close to Colombo's 7,268 metric tons. This suggests fewer but larger cargo movements.
+**7. Container shipping dominates Sri Lanka's maritime trade.**
+Container vessels accounted for approximately 74% of all vessel traffic, making containerized cargo the primary driver of Sri Lanka's port operations.
+
+
 
 
 
