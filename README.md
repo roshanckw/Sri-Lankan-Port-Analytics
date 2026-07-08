@@ -297,10 +297,10 @@ The analysis shows clear specilization among the ports:
 Follow the steps below to explore and reproduce this project.
 
 ### **1.Clone the Repository**
-
+https://github.com/roshanckw/Sri-Lankan-Port-Analytics.git
 
 Navigate into the project folder:
-
+*Sri-Lankan-Port-Analytics*
 
 ### **2.Python Analysis**
 
