@@ -292,8 +292,82 @@ The analysis shows clear specilization among the ports:
 
 *Container vessels accounted for approximately 74% of all vessel traffic, making containerized cargo the primary driver of Sri Lanka's port operations.*
 
+## ▶️ How to Run##
+
+Follow the steps below to explore and reproduce this project.
+
+### **1.Clone the Repository**
 
 
+Navigate into the project folder:
 
+
+### **2.Python Analysis**
+
+Install the required Python libraries:
+pip install- r requirements.txt
+
+Open the Google Colab Notebook:
+
+open : sri_lankan_port_analysis.ipynb
+
+The notebook contains:
+- Data loading
+- Data cleaning
+- Feature engineering
+- Exploratory data analysis
+- Statistical analysis
+- Data export for SQL and Power BI
+
+### **3. SQL Server Analysis**
+1. Open SQL Sever Management Studio (SSMS)
+2. Create the database using:
+
+*sql/create_tables.sql*
+
+3. Import the processed dataset:
+*data/processed_sri_lanka_port_data.csv*
+
+5. Run the analytical SQL scripts to explore:
+- Port performance
+- Trade analysis
+- Vessel analysis
+- Time-series trends
+- Ranking analysis
+- Advanced SQL analysis using CTEs and Window Functions
+
+### **4.Power BI dashboard**
+
+1. Open :
+*Sri Lankan Port Analytics.pbix*
+2. Refresh the dataset connection if required
+3. Explore the five interactive dashboard pages:
+- Executive Overview
+- Port Performance
+- Vessel Analytics
+- Trade Trends
+- Insights & Rankings
+
+## 👨‍💻 Author
+
+**Roshan Chamika Wimalaweera**
+Data Science Undergraduate | Aspiring Data Analyst
+
+This project was developed as part of my journey in building practical data analytics skills using real world datasets.
+
+**Connect with me**
+
+🔗 LinkedIn:
+www.linkedin.com/in/roshan-chamika
+
+### **Project Focus**
+This project demonstrates my ability to :
+- Work with real-world datasets
+- Perform data cleaning and transformation
+- Conduct exploratory data analysis
+- Write analytical SQL queries
+- Build interactive business intelligence dashboards
+- Translate data findings into meaningful insights
+ 
 
 
