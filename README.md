@@ -189,6 +189,29 @@ Designed five interactive dashboards to present business insights:
 
 Combined findings from Python, SQL Server and Power BI to identify key trends, compare port performance and generate actionable insights from Sri Lanka's maritime trade data.
 
+## Power BI Dashboard
+
+### 📈 Dashboard 1 — Executive Overview
+This dashboard provides a high-level summary of Sri Lanka's maritime trade performance.
+**Highlights**
+- Total Trade
+- Total Imports
+- Total Exports
+- Total Port Calls
+- Average Trade per Ship
+- Monthly Trade Trend
+- Imports vs Exports
+- Top Performing Ports
+
+### 🚢 Dashboard 2 — Port Performance
+
+### ⚓ Dashboard 3 — Vessel Analytics
+
+### 📉 Dashboard 4 — Trade Trends
+
+### 🏆 Dashboard 5 — Insights & Rankings
+
+
 
 
 
