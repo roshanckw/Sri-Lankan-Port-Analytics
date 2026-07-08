@@ -202,7 +202,9 @@ This dashboard provides a high-level summary of Sri Lanka's maritime trade perfo
 - Monthly Trade Trend
 - Imports vs Exports
 - Top Performing Ports
-![Executive Overview](dashboard_images/Page 1- Overview.png)
+  
+<img width="1315" height="740" alt="Page 1- Overview" src="https://github.com/user-attachments/assets/0a58ac31-f633-4060-99fb-aef62084e854" />
+
 
 ### 🚢 Dashboard 2 — Port Performance
 This dashboard compares the performance of Sri Lanka's major ports.
@@ -214,6 +216,8 @@ This dashboard compares the performance of Sri Lanka's major ports.
 - Average Daily Trade
 - Average Daily Port Calls
 - Port Performance Table
+  <img width="1308" height="741" alt="Page 2 - Port performance" src="https://github.com/user-attachments/assets/d2cdb9a9-2561-4db3-8bce-b857a4dfa256" />
+
 
 ### ⚓ Dashboard 3 — Vessel Analytics
 This dashboard focuses on vessel movements and port traffic composition.
@@ -223,6 +227,8 @@ This dashboard focuses on vessel movements and port traffic composition.
 - Vessel Composition by Port
 - Average Vessel Calls
 - Vessel Share Analysis
+  <img width="1316" height="735" alt="Page -3 Vessel Analytics" src="https://github.com/user-attachments/assets/18445ae1-e4da-4108-835e-42e08d9e3aca" />
+
 
 ### 📉 Dashboard 4 — Trade Trends
 This dashboard analyzes how maritime trade has changed over time.
@@ -232,6 +238,8 @@ This dashboard analyzes how maritime trade has changed over time.
 - Monthly Exports
 - Monthly Port Calls
 - Yearly Trade Comparison
+  <img width="1301" height="725" alt="Page 4 - Trade Trends" src="https://github.com/user-attachments/assets/aff3b72e-836a-4dca-81ea-0d6566ec3065" />
+
   
 
 ### 🏆 Dashboard 5 — Insights & Rankings
@@ -242,6 +250,8 @@ This dashboard summarizes the most important business findings.
 - Import-Export Ratio
 - Trade Balance Ranking
 - Average Trade per Ship Ranking
+  <img width="1300" height="737" alt="Page 5 - Insights   Rankings" src="https://github.com/user-attachments/assets/f427c138-f641-4674-baa2-7439be1a1de7" />
+
 
 
 
