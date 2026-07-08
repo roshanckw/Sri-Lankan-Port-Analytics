@@ -204,12 +204,43 @@ This dashboard provides a high-level summary of Sri Lanka's maritime trade perfo
 - Top Performing Ports
 
 ### 🚢 Dashboard 2 — Port Performance
+This dashboard compares the performance of Sri Lanka's major ports.
+**Highlights**
+- Trade Volume by Port
+- Imports vs Exports by Port
+- Trade Balance
+- Average Trade per Ship
+- Average Daily Trade
+- Average Daily Port Calls
+- Port Performance Table
 
 ### ⚓ Dashboard 3 — Vessel Analytics
+This dashboard focuses on vessel movements and port traffic composition.
+**Highlight**
+- Total Vessel Calls
+- Vessel Type Distribution
+- Vessel Composition by Port
+- Average Vessel Calls
+- Vessel Share Analysis
 
 ### 📉 Dashboard 4 — Trade Trends
+This dashboard analyzes how maritime trade has changed over time.
+**Highlight**
+- Monthly Trade Volume
+- Monthly Imports
+- Monthly Exports
+- Monthly Port Calls
+- Yearly Trade Comparison
+  
 
 ### 🏆 Dashboard 5 — Insights & Rankings
+This dashboard summarizes the most important business findings.
+**Highlights**
+- Top Performing Ports
+- Lowest Activity Ports
+- Import-Export Ratio
+- Trade Balance Ranking
+- Average Trade per Ship Ranking
 
 
 
