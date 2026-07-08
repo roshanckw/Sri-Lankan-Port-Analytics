@@ -55,6 +55,76 @@ This project uses publicly available port activity data provided by the Internat
 | Country  | Sri Lanka  | 
 | Granularity | Daily port-level observations | 
 
+### Port Activity Dataset Dictionary
+
+| Column Name | Description |
+| :--- | :--- |
+| **date** | All port call dates are expressed in Coordinated Universal Time (UTC), a standard used to set all time zones around the world. |
+| **year** | As extracted from date. |
+| **month** | Month 1-12 extracted from date. |
+| **day** | Day 1-31 extracted from date. |
+| **portid** | Port id. Full list of ports and associated additional information can be found here. |
+| **portname** | Port name. |
+| **country** | Country the port resides in. |
+| **ISO3** | ISO 3-letter country code of the port. |
+| **portcalls_container** | Number of container ships entering the port at this date. |
+| **portcalls_dry_bulk** | Number of dry bulk carriers entering the port at this date. |
+| **portcalls_general_cargo** | Number of general cargo ships entering the port at this date. |
+| **portcalls_roro** | Number of ro-ro ships entering the port at this date. |
+| **portcalls_tanker** | Number of tankers entering the port at this date. |
+| **portcalls_cargo** | Total number of ships (excluding tankers) entering the port at this date. This is the sum of portcalls_container, portcalls_dry_bulk, portcalls_general_cargo and portcalls_roro. |
+| **portcalls** | Total number of ships entering the port at this date. This is the sum of portcalls_container, portcalls_dry_bulk, portcalls_general_cargo, portcalls_roro and portcalls_tanker. |
+| **import_container** | Total import volume (in metric tons) of all container ships entering the port at this date. |
+| **import_dry_bulk** | Total import volume (in metric tons) of all dry bulk carriers entering the port at this date. |
+| **import_general_cargo** | Total import volume (in metric tons) of all general cargo ships entering the port at this date. |
+| **import_roro** | Total import volume (in metric tons) of all ro-ro ships entering the port at this date. |
+| **import_tanker** | Total import volume (in metric tons) of all tankers entering the port at this date. |
+| **import_cargo** | Total import volume (in metric tons) of all ships (excluding tankers) entering the port at this date. This is the sum of import_container, import_dry_bulk, import_general_cargo and import_roro. |
+| **import** | Total import volume (in metric tons) of all ships entering the port at this date. This is the sum of import_container, import_dry_bulk, import_general_cargo, import_roro and import_tanker. |
+| **export_container** | Total export volume (in metric tons) of all container ships entering the port at this date. |
+| **export_dry_bulk** | Total export volume (in metric tons) of all dry bulk carriers entering the port at this date. |
+| **export_general_cargo** | Total export volume (in metric tons) of all general cargo ships entering the port at this date. |
+| **export_roro** | Total export volume (in metric tons) of all ro-ro ships entering the port at this date. |
+| **export_tanker** | Total export volume (in metric tons) of all tankers entering the port at this date. |
+| **export_cargo** | Total export volume (in metric tons) of all ships (excluding tankers) entering the port at this date. This is the sum of export_container, export_dry_bulk, export_general_cargo and export_roro. |
+| **export** | Total export volume (in metric tons) of all ships entering the port at this date. This is the sum of export_container, export_dry_bulk, export_general_cargo, export_roro and export_tanker. |
+
+**Data Includes**
+The dataset contains information related to:
+- Port calls by vessel type
+- Import and export cargo volumes
+- Total trade volume
+- Vessel traffic statistics
+- Port activity over time
+- Date-based information for trend analysis
+
+### Feature Engineering
+To support deeper analysis, several new features were created during data preprocessing, including:
+
+- Total Trade
+- Trade Balance
+- Import & Export Percentages
+- Average Import per Ship
+- Average Export per Ship
+- Average Trade per Ship
+- Import-Export Ratio
+- Vessel Type Shares (Container, Tanker, Dry Bulk, General Cargo and Ro-Ro)
+- Year-Month field for monthly trend analysis
+
+## 🛠️ Technology Stack
+
+This project combines multiple analytics tools to complete the full data analysis workflow.
+
+| **Technology** | **Purpose** |
+| --- | --- | 
+| Python  | Data cleaning, feature engineering and exploratory data analysis (EDA) | 
+| Pandas & NumPy  | Data manipulation and preprocessing | 
+| Matplotlib  | Data visualization during EDA | 
+| SQL Server  | Data storage and analytical SQL queries | 
+| Power BI  | Interactive dashboards and business intelligence reporting | 
+|  Git & GitHub | Version control and project documentation | 
+| Google Colab  | Python development environment  | 
+
 
 
 
