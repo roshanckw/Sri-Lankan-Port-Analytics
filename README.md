@@ -125,6 +125,70 @@ This project combines multiple analytics tools to complete the full data analysi
 |  Git & GitHub | Version control and project documentation | 
 | Google Colab  | Python development environment  | 
 
+## 🔄 Project Workflow
+
+The project follows a complete end-to-end data analytics workflow.
+
+**Step 1 — Data Collection**
+
+- Obtained the IMF PortWatch Sri Lankan Port Activity Dataset.
+- Loaded the raw dataset into Python for analysis.
+  
+**Step 2 — Data Cleaning**
+
+- Checked missing values.
+- Removed duplicate records.
+- Verified data types.
+- Validated data quality.
+  
+**Step 3 — Feature Engineering**
+
+Created additional business metrics to support analysis, including:
+
+- Total Trade
+- Trade Balance
+- Trade Ratios
+- Vessel Type Shares
+- Average Trade per Ship
+- Monthly Analysis Fields
+  
+**Step 4 — Exploratory Data Analysis (Python)**
+
+Performed detailed exploratory analysis to understand:
+
+- Port performance
+- Trade patterns
+- Vessel composition
+- Time-series trends
+- Trade distribution
+- Correlation between variables
+- Operational ratios
+
+**Step 5 — SQL Analytics**
+
+Imported the processed dataset into SQL Server and performed analytical queries using:
+
+- Aggregate Functions
+- GROUP BY
+- CASE Statements
+- Window Functions
+- Common Table Expressions (CTEs)
+- Ranking Functions
+  
+**Step 6 — Power BI Dashboard Development**
+
+Designed five interactive dashboards to present business insights:
+
+- Executive Overview
+- Port Performance
+- Vessel Analytics
+- Trade Trends
+- Insights & Rankings
+  
+**Step 7 — Business Insights**
+
+Combined findings from Python, SQL Server and Power BI to identify key trends, compare port performance and generate actionable insights from Sri Lanka's maritime trade data.
+
 
 
 
